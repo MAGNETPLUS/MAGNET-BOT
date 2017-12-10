@@ -44,10 +44,10 @@ sleep 1
 echo "Base TDBot ( CerNer )"
 sleep 0.7
 echo ""
-echo "Edit By @MahDiRoO"
+echo "Edit By @majidadminmagnet"
 sleep 0.7
 echo ""
-echo "Channel @MaTaDoRTeaM"
+echo "Channel @magnetFS"
 sleep 2
 tmux new-session -d -s "Cli" "./Download/Cli"
 tmux detach -s "Cli"
