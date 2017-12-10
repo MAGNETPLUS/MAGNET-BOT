@@ -1,3 +1,3 @@
 ###  Telegram channel:
 
-# [MAGNET](https://telegram.me/MAGNETFS)
+# [MaTaDoRTeaM](https://telegram.me/MaTaDoRTeaM)
