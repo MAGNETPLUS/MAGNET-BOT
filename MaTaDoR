@@ -1,5 +1,5 @@
 #!/bin/bash
-# Launch edit by @MahDiRoO
+# Launch edit by @majidadminmagnet
 tgcli_version="171003-nightly"
 luarocks_version=2.4.2
 lualibs=(
@@ -116,7 +116,7 @@ done
 mkdir $HOME/.telegram-bot; cat <<EOF > $HOME/.telegram-bot/config
 default_profile = "main";
 main = {
-lua_script = "$HOME/MaTaDoR-Company/Cli.lua";
+lua_script = "$HOME/MAGNET-BOT/Cli.lua";
 };
 EOF
 printf "\nDone\n"
